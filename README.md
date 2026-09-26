@@ -1584,6 +1584,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DashThis](https://dashthis.com) `https://mcp.dashthis.com`
   [![DashThis MCP connector](https://glama.ai/mcp/connectors/com.dashthis/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dashthis/mcp)
   🔐 - Work with your marketing reporting dashboards and turn the numbers into client-ready updates.
+- [Deeplead](https://www.deeplead.io) `https://www.deeplead.io/api/mcp`
+  [![Deeplead MCP connector](https://glama.ai/mcp/connectors/io.deeplead/deeplead/badges/score.svg)](https://glama.ai/mcp/connectors/io.deeplead/deeplead)
+  🔐 - Search local businesses, companies and people, and find decision makers with verified emails and phones.
 - [DripRaven](https://dripraven.com) `https://app.dripraven.com/mcp`
   [![DripRaven MCP connector](https://glama.ai/mcp/connectors/com.dripraven/dripraven/badges/score.svg)](https://glama.ai/mcp/connectors/com.dripraven/dripraven)
   🔐 - WhatsApp Business campaigns: import and segment contacts, schedule broadcasts and track delivery.
